@@ -1,6 +1,8 @@
 # Drawccoon Render Engine
 ### as used in [Paths of Savage Gods](https://www.kickstarter.com/projects/lyniat-games/paths-of-savage-gods)
 
+![Waschi the drawccoon](/readme/drawccoon.png)
+
 ## About DRE
 DRE is a Unity plugin for rendering huge isometric tilemaps at high performance.
 E.g. maps with 16384 x 16384 tiles (one tile high) runs with 60+FPS on an average gaming pc.
