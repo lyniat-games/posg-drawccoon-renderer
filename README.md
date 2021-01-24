@@ -27,3 +27,6 @@ Most of the rendering code is written in HLSL but the shader linker and some oth
 
 #### What are your coding conventions?
 We will publish our conventions and guides together with the code!
+
+#### Who maintaines this repository?
+It's maintained by [lyniat](https://github.com/Lyniat) and [lyniat.games GmbH](https://lyniat.games).
